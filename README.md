@@ -14,4 +14,4 @@
 * [Ml system design Course](https://ml-system-design.ru/courses)
 * [Stanford MLSD COurse](https://stanford-cs329s.github.io/syllabus.html)
 * [machine-learning-system-design book repository](https://github.com/ML-SystemDesign/MLSystemDesign)
-* 
+* [курс ЛЭТИ](https://vec.etu.ru/moodle/course/view.php?id=7824)
