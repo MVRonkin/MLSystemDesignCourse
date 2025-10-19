@@ -20,3 +20,4 @@
 LLM System design
 * [GenAI system design](https://github.com/themanojdesai/genai-llm-ml-case-studies)
 * [LLM инженерия. Блог В. Викулина](https://t.me/vikulin_ai)
+* [ML and LLM system design: 650 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
