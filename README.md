@@ -15,3 +15,8 @@
 * [Stanford MLSD COurse](https://stanford-cs329s.github.io/syllabus.html)
 * [machine-learning-system-design book repository](https://github.com/ML-SystemDesign/MLSystemDesign)
 * [курс ЛЭТИ](https://vec.etu.ru/moodle/course/view.php?id=7824)
+* [Principles and Practices of Engineering Artificially Intelligent Systems](https://github.com/harvard-edge/cs249r_book)
+
+LLM System design
+* [GenAI system design](https://github.com/themanojdesai/genai-llm-ml-case-studies)
+* [LLM инженерия. Блог В. Викулина](https://t.me/vikulin_ai)
