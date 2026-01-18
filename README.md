@@ -6,6 +6,8 @@
 * [Курс "Доверительный ИИ"](https://stepik.org/course/125906/syllabus)
 * [Курс "Дата-центричный ИИ"](https://dcai.csail.mit.edu/)
 * А также большой набор материалов, как правило приведенных в ссылках в презентациях.
+* [awesome-ai-infrastructures](https://github.com/1duo/awesome-ai-infrastructures)
+  
 
 Также рекомендую
 * [MLSD Intreview](https://github.com/alirezadir/Machine-Learning-Interviews/tree/main/src/MLSD)
@@ -17,8 +19,12 @@
 * [курс ЛЭТИ](https://vec.etu.ru/moodle/course/view.php?id=7824)
 * [Principles and Practices of Engineering Artificially Intelligent Systems](https://github.com/harvard-edge/cs249r_book)
 * [machine-learning-design-primer](https://github.com/ibragim-bad/machine-learning-design-primer)
+* [dmls-book](https://github.com/chiphuyen/dmls-book)
+* [ml-systems-papers](https://github.com/byungsoo-oh/ml-systems-papers)
+* [Machine Learning Systems Harvard Book](https://github.com/harvard-edge/cs249r_book)
 
 LLM System design
 * [GenAI system design](https://github.com/themanojdesai/genai-llm-ml-case-studies)
 * [LLM инженерия. Блог В. Викулина](https://t.me/vikulin_ai)
 * [ML and LLM system design: 650 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
+* [Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
