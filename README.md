@@ -22,6 +22,7 @@
 * [dmls-book](https://github.com/chiphuyen/dmls-book)
 * [ml-systems-papers](https://github.com/byungsoo-oh/ml-systems-papers)
 * [Machine Learning Systems Harvard Book](https://github.com/harvard-edge/cs249r_book)
+* [GitHub MLSD](https://github.com/chiphuyen/machine-learning-systems-design)
 
 LLM System design
 * [GenAI system design](https://github.com/themanojdesai/genai-llm-ml-case-studies)
