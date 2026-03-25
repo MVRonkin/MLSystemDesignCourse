@@ -8,7 +8,6 @@
 * А также большой набор материалов, как правило приведенных в ссылках в презентациях.
 * [awesome-ai-infrastructures](https://github.com/1duo/awesome-ai-infrastructures)
   
-
 Также рекомендую
 * [MLSD Intreview](https://github.com/alirezadir/Machine-Learning-Interviews/tree/main/src/MLSD)
 * [Made With ML Course](https://madewithml.com/#course)
@@ -24,9 +23,10 @@
 * [Machine Learning Systems Harvard Book](https://github.com/harvard-edge/cs249r_book)
 * [GitHub MLSD](https://github.com/chiphuyen/machine-learning-systems-design)
 * [Lab assignments for Introduction to Data-Centric AI](https://github.com/dcai-course/dcai-lab)
-
+* 
 LLM System design
 * [GenAI system design](https://github.com/themanojdesai/genai-llm-ml-case-studies)
 * [LLM инженерия. Блог В. Викулина](https://t.me/vikulin_ai)
 * [ML and LLM system design: 650 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 * [Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
+* [гайд по архитектуре AI-агентов](https://vikulin.ai/library/tpost/ai_agent_architecture)
