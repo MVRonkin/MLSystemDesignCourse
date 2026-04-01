@@ -1,7 +1,7 @@
 # MLSystemDesignCourse
-1 попытыка оформления курса, вклчая лекционные материал и [большое задание](https://github.com/MVRonkin/MLSystemDesignCourse/raw/main/2024/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pptx). 
 
-<details><summary>## Задание Вариант 1</summary>
+## Варианты заданий
+<details><summary>Задание Вариант 1</summary>
 Разработать проект с использование технологий искусственного интеллекта.
 1. Выбрать цель проекта и проанализировать ее выполнимость.
 2. Поставить гипотезы проекта.
@@ -11,7 +11,7 @@
 6. Предложить диагностику как часть ЖЦ. 
 </details>
 
-<details><summary>## Задание Вариант 2</summary>
+<details><summary>Задание Вариант 2</summary>
 Поставить эксперимен по использованию моделей ИИ в решении задачи.
 1. Выбрать известную задачу и обосновать необходимость исследований для ее решения.
 2. Провести обоснование использования ИИ при решении выбранной задачи.
@@ -20,6 +20,8 @@
 5. Оценить особенности доверенных технологий в применении к анлизу результатов решения задачи.
 6. Составить план анализа влияния особоенностей данных на решение задачи.
 </details>
+
+[Шаблон презентации для оформления выполненных заданий](https://github.com/MVRonkin/MLSystemDesignCourse/raw/main/2024/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pptx). 
 
 ## Материал основан на моем личном опыте и   авторских курсах коллеги из МФТИ,
 * [Курс Д. Колодзева](https://kolodezev.ru/mlsystemdesign.html)
@@ -44,8 +46,8 @@
 * [Machine Learning Systems Harvard Book](https://github.com/harvard-edge/cs249r_book)
 * [GitHub MLSD](https://github.com/chiphuyen/machine-learning-systems-design)
 * [Lab assignments for Introduction to Data-Centric AI](https://github.com/dcai-course/dcai-lab)
-* 
-LLM System design
+
+##  LLM System design
 * [GenAI system design](https://github.com/themanojdesai/genai-llm-ml-case-studies)
 * [LLM инженерия. Блог В. Викулина](https://t.me/vikulin_ai)
 * [ML and LLM system design: 650 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
