@@ -52,6 +52,7 @@
 * [Machine Learning Systems Harvard Book](https://github.com/harvard-edge/cs249r_book)
 * [GitHub MLSD](https://github.com/chiphuyen/machine-learning-systems-design)
 * [Lab assignments for Introduction to Data-Centric AI](https://github.com/dcai-course/dcai-lab)
+* [Курс Машинного обучения для обработки сигналов и временных рядов от Дмитрия Bykhovsky](https://bykhov.github.io/data-driven/)
 
 ##  LLM System design
 * [GenAI system design](https://github.com/themanojdesai/genai-llm-ml-case-studies)
