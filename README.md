@@ -38,6 +38,7 @@
 * [awesome-ai-infrastructures](https://github.com/1duo/awesome-ai-infrastructures)
   
 ## Также рекомендую
+* [MLSystemBook](https://mlsysbook.ai/)
 * [MLSD Intreview](https://github.com/alirezadir/Machine-Learning-Interviews/tree/main/src/MLSD)
 * [Made With ML Course](https://madewithml.com/#course)
 * [ML Full Stack Course](https://fullstackdeeplearning.com/)
